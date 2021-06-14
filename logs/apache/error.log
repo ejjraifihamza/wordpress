@@ -1,0 +1,71 @@
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using 127.0.1.1. Set the 'ServerName' directive globally to suppress this message
+[Sun Jun 06 21:44:06.685662 2021] [mpm_event:notice] [pid 102157:tid 139781274004800] AH00489: Apache/2.4.43 (Unix) configured -- resuming normal operations
+[Sun Jun 06 21:44:06.685755 2021] [core:notice] [pid 102157:tid 139781274004800] AH00094: Command line: '/home/hamza/.config/Local/lightning-services/apache-2.4.43+6/bin/linux/bin/httpd -D FOREGROUND -f /home/hamza/.config/Local/run/U8HxhtX1L/conf/apache/apache2.conf'
+[Sun Jun 06 23:39:22.100330 2021] [mpm_event:notice] [pid 102157:tid 139781274004800] AH00491: caught SIGTERM, shutting down
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using 127.0.1.1. Set the 'ServerName' directive globally to suppress this message
+[Tue Jun 08 09:54:49.443407 2021] [mpm_event:notice] [pid 158318:tid 140005141187904] AH00489: Apache/2.4.43 (Unix) configured -- resuming normal operations
+[Tue Jun 08 09:54:49.443506 2021] [core:notice] [pid 158318:tid 140005141187904] AH00094: Command line: '/home/hamza/.config/Local/lightning-services/apache-2.4.43+6/bin/linux/bin/httpd -D FOREGROUND -f /home/hamza/.config/Local/run/U8HxhtX1L/conf/apache/apache2.conf'
+[Tue Jun 08 12:09:01.785900 2021] [mpm_event:notice] [pid 158318:tid 140005141187904] AH00491: caught SIGTERM, shutting down
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using 127.0.1.1. Set the 'ServerName' directive globally to suppress this message
+[Tue Jun 08 13:43:51.898276 2021] [mpm_event:notice] [pid 4695:tid 140649609600320] AH00489: Apache/2.4.43 (Unix) configured -- resuming normal operations
+[Tue Jun 08 13:43:51.898406 2021] [core:notice] [pid 4695:tid 140649609600320] AH00094: Command line: '/home/hamza/.config/Local/lightning-services/apache-2.4.43+6/bin/linux/bin/httpd -D FOREGROUND -f /home/hamza/.config/Local/run/U8HxhtX1L/conf/apache/apache2.conf'
+[Tue Jun 08 16:45:44.020634 2021] [mpm_event:notice] [pid 4695:tid 140649609600320] AH00491: caught SIGTERM, shutting down
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using 127.0.1.1. Set the 'ServerName' directive globally to suppress this message
+[Tue Jun 08 21:29:53.786632 2021] [mpm_event:notice] [pid 16669:tid 140317386763584] AH00489: Apache/2.4.43 (Unix) configured -- resuming normal operations
+[Tue Jun 08 21:29:53.786712 2021] [core:notice] [pid 16669:tid 140317386763584] AH00094: Command line: '/home/hamza/.config/Local/lightning-services/apache-2.4.43+6/bin/linux/bin/httpd -D FOREGROUND -f /home/hamza/.config/Local/run/U8HxhtX1L/conf/apache/apache2.conf'
+[Tue Jun 08 23:25:05.645331 2021] [mpm_event:notice] [pid 16669:tid 140317386763584] AH00491: caught SIGTERM, shutting down
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using 127.0.1.1. Set the 'ServerName' directive globally to suppress this message
+[Tue Jun 08 23:30:51.785380 2021] [mpm_event:notice] [pid 3906:tid 140071206518080] AH00489: Apache/2.4.43 (Unix) configured -- resuming normal operations
+[Tue Jun 08 23:30:51.785446 2021] [core:notice] [pid 3906:tid 140071206518080] AH00094: Command line: '/home/hamza/.config/Local/lightning-services/apache-2.4.43+6/bin/linux/bin/httpd -D FOREGROUND -f /home/hamza/.config/Local/run/U8HxhtX1L/conf/apache/apache2.conf'
+[Tue Jun 08 23:52:30.112825 2021] [mpm_event:notice] [pid 3906:tid 140071206518080] AH00491: caught SIGTERM, shutting down
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using 127.0.1.1. Set the 'ServerName' directive globally to suppress this message
+[Wed Jun 09 00:11:54.918572 2021] [mpm_event:notice] [pid 6363:tid 139776439860544] AH00489: Apache/2.4.43 (Unix) configured -- resuming normal operations
+[Wed Jun 09 00:11:54.918691 2021] [core:notice] [pid 6363:tid 139776439860544] AH00094: Command line: '/home/hamza/.config/Local/lightning-services/apache-2.4.43+6/bin/linux/bin/httpd -D FOREGROUND -f /home/hamza/.config/Local/run/U8HxhtX1L/conf/apache/apache2.conf'
+[Wed Jun 09 00:12:53.517067 2021] [mpm_event:notice] [pid 6363:tid 139776439860544] AH00491: caught SIGTERM, shutting down
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using 127.0.1.1. Set the 'ServerName' directive globally to suppress this message
+[Wed Jun 09 11:12:34.252379 2021] [mpm_event:notice] [pid 11643:tid 140527008795968] AH00489: Apache/2.4.43 (Unix) configured -- resuming normal operations
+[Wed Jun 09 11:12:34.252454 2021] [core:notice] [pid 11643:tid 140527008795968] AH00094: Command line: '/home/hamza/.config/Local/lightning-services/apache-2.4.43+6/bin/linux/bin/httpd -D FOREGROUND -f /home/hamza/.config/Local/run/U8HxhtX1L/conf/apache/apache2.conf'
+[Wed Jun 09 11:53:11.512069 2021] [mpm_event:notice] [pid 11643:tid 140527008795968] AH00491: caught SIGTERM, shutting down
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using 127.0.1.1. Set the 'ServerName' directive globally to suppress this message
+[Wed Jun 09 11:53:13.990519 2021] [mpm_event:notice] [pid 19277:tid 140003198004544] AH00489: Apache/2.4.43 (Unix) configured -- resuming normal operations
+[Wed Jun 09 11:53:13.990589 2021] [core:notice] [pid 19277:tid 140003198004544] AH00094: Command line: '/home/hamza/.config/Local/lightning-services/apache-2.4.43+6/bin/linux/bin/httpd -D FOREGROUND -f /home/hamza/.config/Local/run/U8HxhtX1L/conf/apache/apache2.conf'
+[Wed Jun 09 12:04:34.709165 2021] [mpm_event:notice] [pid 19277:tid 140003198004544] AH00491: caught SIGTERM, shutting down
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using 127.0.1.1. Set the 'ServerName' directive globally to suppress this message
+[Wed Jun 09 12:04:38.464933 2021] [mpm_event:notice] [pid 20601:tid 140522379787584] AH00489: Apache/2.4.43 (Unix) configured -- resuming normal operations
+[Wed Jun 09 12:04:38.464994 2021] [core:notice] [pid 20601:tid 140522379787584] AH00094: Command line: '/home/hamza/.config/Local/lightning-services/apache-2.4.43+6/bin/linux/bin/httpd -D FOREGROUND -f /home/hamza/.config/Local/run/U8HxhtX1L/conf/apache/apache2.conf'
+[Wed Jun 09 12:06:31.550443 2021] [mpm_event:notice] [pid 20601:tid 140522379787584] AH00491: caught SIGTERM, shutting down
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using 127.0.1.1. Set the 'ServerName' directive globally to suppress this message
+[Wed Jun 09 13:59:31.125881 2021] [mpm_event:notice] [pid 22085:tid 140648845049152] AH00489: Apache/2.4.43 (Unix) configured -- resuming normal operations
+[Wed Jun 09 13:59:31.125933 2021] [core:notice] [pid 22085:tid 140648845049152] AH00094: Command line: '/home/hamza/.config/Local/lightning-services/apache-2.4.43+6/bin/linux/bin/httpd -D FOREGROUND -f /home/hamza/.config/Local/run/U8HxhtX1L/conf/apache/apache2.conf'
+[Wed Jun 09 14:03:56.556647 2021] [mpm_event:notice] [pid 22085:tid 140648845049152] AH00491: caught SIGTERM, shutting down
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using 127.0.1.1. Set the 'ServerName' directive globally to suppress this message
+[Wed Jun 09 14:06:03.416479 2021] [mpm_event:notice] [pid 24093:tid 139722607201600] AH00489: Apache/2.4.43 (Unix) configured -- resuming normal operations
+[Wed Jun 09 14:06:03.416590 2021] [core:notice] [pid 24093:tid 139722607201600] AH00094: Command line: '/home/hamza/.config/Local/lightning-services/apache-2.4.43+6/bin/linux/bin/httpd -D FOREGROUND -f /home/hamza/.config/Local/run/U8HxhtX1L/conf/apache/apache2.conf'
+[Wed Jun 09 16:05:12.255274 2021] [mpm_event:notice] [pid 24093:tid 139722607201600] AH00491: caught SIGTERM, shutting down
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using 127.0.1.1. Set the 'ServerName' directive globally to suppress this message
+[Wed Jun 09 18:41:07.282333 2021] [mpm_event:notice] [pid 34706:tid 140580551187776] AH00489: Apache/2.4.43 (Unix) configured -- resuming normal operations
+[Wed Jun 09 18:41:07.282416 2021] [core:notice] [pid 34706:tid 140580551187776] AH00094: Command line: '/home/hamza/.config/Local/lightning-services/apache-2.4.43+6/bin/linux/bin/httpd -D FOREGROUND -f /home/hamza/.config/Local/run/U8HxhtX1L/conf/apache/apache2.conf'
+[Thu Jun 10 01:21:07.428677 2021] [mpm_event:notice] [pid 34706:tid 140580551187776] AH00491: caught SIGTERM, shutting down
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using 127.0.1.1. Set the 'ServerName' directive globally to suppress this message
+[Thu Jun 10 08:57:46.347869 2021] [mpm_event:notice] [pid 59033:tid 140416541756736] AH00489: Apache/2.4.43 (Unix) configured -- resuming normal operations
+[Thu Jun 10 08:57:46.347942 2021] [core:notice] [pid 59033:tid 140416541756736] AH00094: Command line: '/home/hamza/.config/Local/lightning-services/apache-2.4.43+6/bin/linux/bin/httpd -D FOREGROUND -f /home/hamza/.config/Local/run/U8HxhtX1L/conf/apache/apache2.conf'
+[Thu Jun 10 13:40:36.033580 2021] [mpm_event:notice] [pid 59033:tid 140416541756736] AH00491: caught SIGTERM, shutting down
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using 127.0.1.1. Set the 'ServerName' directive globally to suppress this message
+[Thu Jun 10 13:40:36.576691 2021] [mpm_event:notice] [pid 82424:tid 139729343888704] AH00489: Apache/2.4.43 (Unix) configured -- resuming normal operations
+[Thu Jun 10 13:40:36.576780 2021] [core:notice] [pid 82424:tid 139729343888704] AH00094: Command line: '/home/hamza/.config/Local/lightning-services/apache-2.4.43+6/bin/linux/bin/httpd -D FOREGROUND -f /home/hamza/.config/Local/run/U8HxhtX1L/conf/apache/apache2.conf'
+[Thu Jun 10 13:43:36.882410 2021] [mpm_event:notice] [pid 82424:tid 139729343888704] AH00491: caught SIGTERM, shutting down
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using 127.0.1.1. Set the 'ServerName' directive globally to suppress this message
+[Sun Jun 13 22:05:29.140809 2021] [mpm_event:notice] [pid 49440:tid 140306302025024] AH00489: Apache/2.4.43 (Unix) configured -- resuming normal operations
+[Sun Jun 13 22:05:29.140926 2021] [core:notice] [pid 49440:tid 140306302025024] AH00094: Command line: '/home/hamza/.config/Local/lightning-services/apache-2.4.43+6/bin/linux/bin/httpd -D FOREGROUND -f /home/hamza/.config/Local/run/U8HxhtX1L/conf/apache/apache2.conf'
+[Mon Jun 14 00:30:00.502004 2021] [core:warn] [pid 49440:tid 140306302025024] AH00045: child process 49445 still did not exit, sending a SIGTERM
+[Mon Jun 14 00:30:02.508783 2021] [core:warn] [pid 49440:tid 140306302025024] AH00045: child process 49445 still did not exit, sending a SIGTERM
+[Mon Jun 14 00:30:04.511069 2021] [core:warn] [pid 49440:tid 140306302025024] AH00045: child process 49445 still did not exit, sending a SIGTERM
+[Mon Jun 14 00:30:06.513177 2021] [core:error] [pid 49440:tid 140306302025024] AH00046: child process 49445 still did not exit, sending a SIGKILL
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using 127.0.1.1. Set the 'ServerName' directive globally to suppress this message
+[Mon Jun 14 09:06:33.090864 2021] [core:warn] [pid 65704:tid 140226169265472] AH00098: pid file /home/hamza/.config/Local/run/U8HxhtX1L/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Mon Jun 14 09:06:33.092063 2021] [mpm_event:notice] [pid 65704:tid 140226169265472] AH00489: Apache/2.4.43 (Unix) configured -- resuming normal operations
+[Mon Jun 14 09:06:33.092092 2021] [core:notice] [pid 65704:tid 140226169265472] AH00094: Command line: '/home/hamza/.config/Local/lightning-services/apache-2.4.43+6/bin/linux/bin/httpd -D FOREGROUND -f /home/hamza/.config/Local/run/U8HxhtX1L/conf/apache/apache2.conf'
+[Mon Jun 14 09:26:25.346755 2021] [mpm_event:notice] [pid 65704:tid 140226169265472] AH00491: caught SIGTERM, shutting down
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using 127.0.1.1. Set the 'ServerName' directive globally to suppress this message
+[Mon Jun 14 09:26:58.154013 2021] [mpm_event:notice] [pid 67979:tid 139906765249856] AH00489: Apache/2.4.43 (Unix) configured -- resuming normal operations
+[Mon Jun 14 09:26:58.154127 2021] [core:notice] [pid 67979:tid 139906765249856] AH00094: Command line: '/home/hamza/.config/Local/lightning-services/apache-2.4.43+6/bin/linux/bin/httpd -D FOREGROUND -f /home/hamza/.config/Local/run/U8HxhtX1L/conf/apache/apache2.conf'

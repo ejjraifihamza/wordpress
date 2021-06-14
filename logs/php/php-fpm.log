@@ -1,0 +1,219 @@
+[06-Jun-2021 21:44:06] NOTICE: fpm is running, pid 102155
+[06-Jun-2021 21:44:06] NOTICE: ready to handle connections
+[06-Jun-2021 23:39:22] NOTICE: Terminating ...
+[06-Jun-2021 23:39:22] NOTICE: Terminating ...
+[06-Jun-2021 23:39:22] NOTICE: exiting, bye-bye!
+[08-Jun-2021 09:54:49] NOTICE: fpm is running, pid 158312
+[08-Jun-2021 09:54:49] NOTICE: ready to handle connections
+[08-Jun-2021 10:07:43] WARNING: [pool www] child 158320 exited on signal 4 (SIGILL - core dumped) after 773.708640 seconds from start
+[08-Jun-2021 10:07:43] NOTICE: [pool www] child 159336 started
+[08-Jun-2021 11:08:03] WARNING: [pool www] child 159336 exited on signal 4 (SIGILL - core dumped) after 2102.435712 seconds from start
+[08-Jun-2021 11:08:03] NOTICE: [pool www] child 162083 started
+[08-Jun-2021 11:22:44] WARNING: [pool www] child 158321 exited on signal 4 (SIGILL - core dumped) after 3756.345000 seconds from start
+[08-Jun-2021 11:22:44] NOTICE: [pool www] child 163637 started
+[08-Jun-2021 11:25:49] WARNING: [pool www] child 163637 exited on signal 4 (SIGILL - core dumped) after 185.717181 seconds from start
+[08-Jun-2021 11:25:49] NOTICE: [pool www] child 164032 started
+[08-Jun-2021 11:33:07] WARNING: [pool www] child 162083 exited on signal 4 (SIGILL - core dumped) after 1502.539316 seconds from start
+[08-Jun-2021 11:33:07] NOTICE: [pool www] child 165083 started
+[08-Jun-2021 11:33:26] WARNING: [pool www] child 164032 exited on signal 4 (SIGILL - core dumped) after 456.156628 seconds from start
+[08-Jun-2021 11:33:26] NOTICE: [pool www] child 165116 started
+[08-Jun-2021 11:33:41] WARNING: [pool www] child 165083 exited on signal 4 (SIGILL - core dumped) after 34.484214 seconds from start
+[08-Jun-2021 11:33:41] NOTICE: [pool www] child 165132 started
+[08-Jun-2021 11:33:52] WARNING: [pool www] child 165132 exited on signal 4 (SIGILL - core dumped) after 11.099342 seconds from start
+[08-Jun-2021 11:33:52] NOTICE: [pool www] child 165177 started
+[08-Jun-2021 11:33:56] WARNING: [pool www] child 165116 exited on signal 4 (SIGILL - core dumped) after 30.210935 seconds from start
+[08-Jun-2021 11:33:56] NOTICE: [pool www] child 165180 started
+[08-Jun-2021 11:34:49] WARNING: [pool www] child 165177 exited on signal 4 (SIGILL - core dumped) after 56.742388 seconds from start
+[08-Jun-2021 11:34:49] NOTICE: [pool www] child 165292 started
+[08-Jun-2021 11:36:08] WARNING: [pool www] child 165292 exited on signal 4 (SIGILL - core dumped) after 78.627091 seconds from start
+[08-Jun-2021 11:36:08] NOTICE: [pool www] child 165437 started
+[08-Jun-2021 12:09:01] NOTICE: Terminating ...
+[08-Jun-2021 12:09:01] NOTICE: exiting, bye-bye!
+[08-Jun-2021 13:43:51] NOTICE: fpm is running, pid 4690
+[08-Jun-2021 13:43:51] NOTICE: ready to handle connections
+[08-Jun-2021 14:13:50] WARNING: [pool www] child 4699 exited on signal 4 (SIGILL - core dumped) after 1798.617611 seconds from start
+[08-Jun-2021 14:13:50] NOTICE: [pool www] child 6118 started
+[08-Jun-2021 14:18:09] WARNING: [pool www] child 4698 exited on signal 4 (SIGILL - core dumped) after 2058.074737 seconds from start
+[08-Jun-2021 14:18:09] NOTICE: [pool www] child 6453 started
+[08-Jun-2021 14:23:33] WARNING: [pool www] child 6118 exited on signal 4 (SIGILL - core dumped) after 582.870009 seconds from start
+[08-Jun-2021 14:23:33] NOTICE: [pool www] child 6737 started
+[08-Jun-2021 14:36:14] WARNING: [pool www] child 6453 exited on signal 4 (SIGILL - core dumped) after 1084.439593 seconds from start
+[08-Jun-2021 14:36:14] NOTICE: [pool www] child 7506 started
+[08-Jun-2021 14:36:23] WARNING: [pool www] child 6737 exited on signal 4 (SIGILL - core dumped) after 770.502405 seconds from start
+[08-Jun-2021 14:36:23] NOTICE: [pool www] child 7515 started
+[08-Jun-2021 16:45:44] NOTICE: Terminating ...
+[08-Jun-2021 16:45:44] NOTICE: exiting, bye-bye!
+[08-Jun-2021 21:29:53] NOTICE: fpm is running, pid 16664
+[08-Jun-2021 21:29:53] NOTICE: ready to handle connections
+[08-Jun-2021 21:51:47] WARNING: [pool www] child 16673 exited on signal 4 (SIGILL - core dumped) after 1310.688045 seconds from start
+[08-Jun-2021 21:51:47] NOTICE: [pool www] child 18459 started
+[08-Jun-2021 22:03:58] WARNING: [pool www] child 18459 exited on signal 4 (SIGILL - core dumped) after 730.933149 seconds from start
+[08-Jun-2021 22:03:58] NOTICE: [pool www] child 19440 started
+[08-Jun-2021 22:11:57] WARNING: [pool www] child 19440 exited on signal 4 (SIGILL - core dumped) after 478.919338 seconds from start
+[08-Jun-2021 22:11:57] NOTICE: [pool www] child 20147 started
+[08-Jun-2021 22:12:02] WARNING: [pool www] child 16672 exited on signal 4 (SIGILL - core dumped) after 2525.401627 seconds from start
+[08-Jun-2021 22:12:02] NOTICE: [pool www] child 20162 started
+[08-Jun-2021 22:12:06] WARNING: [pool www] child 20162 exited on signal 4 (SIGILL - core dumped) after 3.844071 seconds from start
+[08-Jun-2021 22:12:06] NOTICE: [pool www] child 20166 started
+[08-Jun-2021 22:12:08] WARNING: [pool www] child 20166 exited on signal 4 (SIGILL - core dumped) after 2.270908 seconds from start
+[08-Jun-2021 22:12:08] NOTICE: [pool www] child 20170 started
+[08-Jun-2021 22:12:19] WARNING: [pool www] child 20147 exited on signal 4 (SIGILL - core dumped) after 22.113277 seconds from start
+[08-Jun-2021 22:12:19] NOTICE: [pool www] child 20210 started
+[08-Jun-2021 22:12:24] WARNING: [pool www] child 20170 exited on signal 4 (SIGILL - core dumped) after 15.441960 seconds from start
+[08-Jun-2021 22:12:24] NOTICE: [pool www] child 20213 started
+[08-Jun-2021 22:12:28] WARNING: [pool www] child 20213 exited on signal 4 (SIGILL - core dumped) after 4.781012 seconds from start
+[08-Jun-2021 22:12:28] NOTICE: [pool www] child 20216 started
+[08-Jun-2021 23:25:05] NOTICE: Terminating ...
+[08-Jun-2021 23:25:05] NOTICE: exiting, bye-bye!
+[08-Jun-2021 23:30:51] NOTICE: fpm is running, pid 3900
+[08-Jun-2021 23:30:51] NOTICE: ready to handle connections
+[08-Jun-2021 23:52:30] NOTICE: Terminating ...
+[08-Jun-2021 23:52:30] NOTICE: exiting, bye-bye!
+[09-Jun-2021 00:11:54] NOTICE: fpm is running, pid 6358
+[09-Jun-2021 00:11:54] NOTICE: ready to handle connections
+[09-Jun-2021 00:12:53] NOTICE: Terminating ...
+[09-Jun-2021 00:12:53] NOTICE: Terminating ...
+[09-Jun-2021 00:12:53] NOTICE: exiting, bye-bye!
+[09-Jun-2021 11:12:34] NOTICE: fpm is running, pid 11641
+[09-Jun-2021 11:12:34] NOTICE: ready to handle connections
+[09-Jun-2021 11:50:23] WARNING: [pool www] child 11644 exited on signal 4 (SIGILL - core dumped) after 2269.675843 seconds from start
+[09-Jun-2021 11:50:23] NOTICE: [pool www] child 18598 started
+[09-Jun-2021 11:50:49] WARNING: [pool www] child 18598 exited on signal 4 (SIGILL - core dumped) after 25.581059 seconds from start
+[09-Jun-2021 11:50:49] NOTICE: [pool www] child 18625 started
+[09-Jun-2021 11:51:14] WARNING: [pool www] child 11645 exited on signal 4 (SIGILL - core dumped) after 2319.877528 seconds from start
+[09-Jun-2021 11:51:14] NOTICE: [pool www] child 18665 started
+[09-Jun-2021 11:51:15] WARNING: [pool www] child 18625 exited on signal 4 (SIGILL - core dumped) after 25.561150 seconds from start
+[09-Jun-2021 11:51:15] NOTICE: [pool www] child 18669 started
+[09-Jun-2021 11:51:15] WARNING: [pool www] child 18665 exited on signal 4 (SIGILL - core dumped) after 1.345900 seconds from start
+[09-Jun-2021 11:51:15] NOTICE: [pool www] child 18672 started
+[09-Jun-2021 11:51:16] WARNING: [pool www] child 18669 exited on signal 4 (SIGILL - core dumped) after 1.220046 seconds from start
+[09-Jun-2021 11:51:16] NOTICE: [pool www] child 18676 started
+[09-Jun-2021 11:51:16] WARNING: [pool www] child 18672 exited on signal 4 (SIGILL - core dumped) after 1.231817 seconds from start
+[09-Jun-2021 11:51:16] NOTICE: [pool www] child 18679 started
+[09-Jun-2021 11:51:17] WARNING: [pool www] child 18676 exited on signal 4 (SIGILL - core dumped) after 1.436237 seconds from start
+[09-Jun-2021 11:51:17] NOTICE: [pool www] child 18681 started
+[09-Jun-2021 11:51:24] WARNING: [pool www] child 18681 exited on signal 4 (SIGILL - core dumped) after 6.773717 seconds from start
+[09-Jun-2021 11:51:24] NOTICE: [pool www] child 18698 started
+[09-Jun-2021 11:51:36] WARNING: [pool www] child 18698 exited on signal 4 (SIGILL - core dumped) after 12.492086 seconds from start
+[09-Jun-2021 11:51:36] NOTICE: [pool www] child 18725 started
+[09-Jun-2021 11:51:38] WARNING: [pool www] child 18679 exited on signal 4 (SIGILL - core dumped) after 21.502806 seconds from start
+[09-Jun-2021 11:51:38] NOTICE: [pool www] child 18734 started
+[09-Jun-2021 11:51:38] WARNING: [pool www] child 18725 exited on signal 4 (SIGILL - core dumped) after 1.238987 seconds from start
+[09-Jun-2021 11:51:38] NOTICE: [pool www] child 18735 started
+[09-Jun-2021 11:51:39] WARNING: [pool www] child 18734 exited on signal 4 (SIGILL - core dumped) after 1.333831 seconds from start
+[09-Jun-2021 11:51:39] NOTICE: [pool www] child 18739 started
+[09-Jun-2021 11:51:40] WARNING: [pool www] child 18735 exited on signal 4 (SIGILL - core dumped) after 2.429728 seconds from start
+[09-Jun-2021 11:51:40] NOTICE: [pool www] child 18743 started
+[09-Jun-2021 11:51:40] WARNING: [pool www] child 18739 exited on signal 4 (SIGILL - core dumped) after 1.294553 seconds from start
+[09-Jun-2021 11:51:40] NOTICE: [pool www] child 18745 started
+[09-Jun-2021 11:51:56] WARNING: [pool www] child 18743 exited on signal 4 (SIGILL - core dumped) after 16.087471 seconds from start
+[09-Jun-2021 11:51:56] NOTICE: [pool www] child 18804 started
+[09-Jun-2021 11:53:11] NOTICE: Terminating ...
+[09-Jun-2021 11:53:11] NOTICE: Terminating ...
+[09-Jun-2021 11:53:11] NOTICE: exiting, bye-bye!
+[09-Jun-2021 11:53:13] NOTICE: fpm is running, pid 19275
+[09-Jun-2021 11:53:13] NOTICE: ready to handle connections
+[09-Jun-2021 11:53:30] WARNING: [pool www] child 19279 exited on signal 4 (SIGILL - core dumped) after 16.643083 seconds from start
+[09-Jun-2021 11:53:30] NOTICE: [pool www] child 19572 started
+[09-Jun-2021 11:53:35] WARNING: [pool www] child 19572 exited on signal 4 (SIGILL - core dumped) after 4.823383 seconds from start
+[09-Jun-2021 11:53:35] NOTICE: [pool www] child 19576 started
+[09-Jun-2021 11:53:52] WARNING: [pool www] child 19278 exited on signal 4 (SIGILL - core dumped) after 38.724009 seconds from start
+[09-Jun-2021 11:53:52] NOTICE: [pool www] child 19592 started
+[09-Jun-2021 11:54:39] WARNING: [pool www] child 19576 exited on signal 4 (SIGILL - core dumped) after 64.200445 seconds from start
+[09-Jun-2021 11:54:39] NOTICE: [pool www] child 19603 started
+[09-Jun-2021 12:02:04] WARNING: [pool www] child 19592 exited on signal 4 (SIGILL - core dumped) after 492.287042 seconds from start
+[09-Jun-2021 12:02:04] NOTICE: [pool www] child 20385 started
+[09-Jun-2021 12:03:56] WARNING: [pool www] child 19603 exited on signal 4 (SIGILL - core dumped) after 557.276060 seconds from start
+[09-Jun-2021 12:03:56] NOTICE: [pool www] child 20483 started
+[09-Jun-2021 12:04:01] WARNING: [pool www] child 20483 exited on signal 4 (SIGILL - core dumped) after 4.097649 seconds from start
+[09-Jun-2021 12:04:01] NOTICE: [pool www] child 20503 started
+[09-Jun-2021 12:04:03] WARNING: [pool www] child 20385 exited on signal 4 (SIGILL - core dumped) after 118.925369 seconds from start
+[09-Jun-2021 12:04:03] NOTICE: [pool www] child 20513 started
+[09-Jun-2021 12:04:34] NOTICE: Terminating ...
+[09-Jun-2021 12:04:34] NOTICE: Terminating ...
+[09-Jun-2021 12:04:34] NOTICE: exiting, bye-bye!
+[09-Jun-2021 12:04:38] NOTICE: fpm is running, pid 20597
+[09-Jun-2021 12:04:38] NOTICE: ready to handle connections
+[09-Jun-2021 12:05:46] WARNING: [pool www] child 20602 exited on signal 4 (SIGILL - core dumped) after 68.361691 seconds from start
+[09-Jun-2021 12:05:46] NOTICE: [pool www] child 20863 started
+[09-Jun-2021 12:06:10] WARNING: [pool www] child 20863 exited on signal 4 (SIGILL - core dumped) after 23.782353 seconds from start
+[09-Jun-2021 12:06:10] NOTICE: [pool www] child 20911 started
+[09-Jun-2021 12:06:31] NOTICE: Terminating ...
+[09-Jun-2021 12:06:31] NOTICE: Terminating ...
+[09-Jun-2021 12:06:31] NOTICE: exiting, bye-bye!
+[09-Jun-2021 13:59:31] NOTICE: fpm is running, pid 22083
+[09-Jun-2021 13:59:31] NOTICE: ready to handle connections
+[09-Jun-2021 14:00:52] WARNING: [pool www] child 22087 exited on signal 4 (SIGILL - core dumped) after 81.627482 seconds from start
+[09-Jun-2021 14:00:52] NOTICE: [pool www] child 22682 started
+[09-Jun-2021 14:03:56] NOTICE: Terminating ...
+[09-Jun-2021 14:03:56] NOTICE: Terminating ...
+[09-Jun-2021 14:03:56] NOTICE: exiting, bye-bye!
+[09-Jun-2021 14:06:03] NOTICE: fpm is running, pid 24091
+[09-Jun-2021 14:06:03] NOTICE: ready to handle connections
+[09-Jun-2021 14:06:30] WARNING: [pool www] child 24095 exited on signal 4 (SIGILL - core dumped) after 26.644780 seconds from start
+[09-Jun-2021 14:06:30] NOTICE: [pool www] child 24402 started
+[09-Jun-2021 14:06:32] WARNING: [pool www] child 24094 exited on signal 4 (SIGILL - core dumped) after 29.413714 seconds from start
+[09-Jun-2021 14:06:32] NOTICE: [pool www] child 24404 started
+[09-Jun-2021 14:06:36] WARNING: [pool www] child 24404 exited on signal 4 (SIGILL - core dumped) after 3.583823 seconds from start
+[09-Jun-2021 14:06:36] NOTICE: [pool www] child 24409 started
+[09-Jun-2021 14:13:03] WARNING: [pool www] child 24402 exited on signal 4 (SIGILL - core dumped) after 393.252047 seconds from start
+[09-Jun-2021 14:13:03] NOTICE: [pool www] child 24767 started
+[09-Jun-2021 14:13:16] WARNING: [pool www] child 24767 exited on signal 4 (SIGILL - core dumped) after 12.890606 seconds from start
+[09-Jun-2021 14:13:16] NOTICE: [pool www] child 24826 started
+[09-Jun-2021 14:13:34] WARNING: [pool www] child 24826 exited on signal 4 (SIGILL - core dumped) after 18.011369 seconds from start
+[09-Jun-2021 14:13:34] NOTICE: [pool www] child 24872 started
+[09-Jun-2021 14:13:37] WARNING: [pool www] child 24409 exited on signal 4 (SIGILL - core dumped) after 421.487716 seconds from start
+[09-Jun-2021 14:13:37] NOTICE: [pool www] child 24876 started
+[09-Jun-2021 14:15:23] WARNING: [pool www] child 24876 exited on signal 4 (SIGILL - core dumped) after 105.688183 seconds from start
+[09-Jun-2021 14:15:23] NOTICE: [pool www] child 25068 started
+[09-Jun-2021 14:15:52] WARNING: [pool www] child 24872 exited on signal 4 (SIGILL - core dumped) after 138.159134 seconds from start
+[09-Jun-2021 14:15:52] NOTICE: [pool www] child 25115 started
+[09-Jun-2021 14:16:03] WARNING: [pool www] child 25068 exited on signal 4 (SIGILL - core dumped) after 40.150103 seconds from start
+[09-Jun-2021 14:16:03] NOTICE: [pool www] child 25134 started
+[09-Jun-2021 14:16:16] WARNING: [pool www] child 25115 exited on signal 4 (SIGILL - core dumped) after 24.462169 seconds from start
+[09-Jun-2021 14:16:16] NOTICE: [pool www] child 25155 started
+[09-Jun-2021 14:19:33] WARNING: [pool www] child 25134 exited on signal 4 (SIGILL - core dumped) after 209.889217 seconds from start
+[09-Jun-2021 14:19:33] NOTICE: [pool www] child 25354 started
+[09-Jun-2021 14:22:47] WARNING: [pool www] child 25354 exited on signal 4 (SIGILL - core dumped) after 193.572941 seconds from start
+[09-Jun-2021 14:22:47] NOTICE: [pool www] child 25595 started
+[09-Jun-2021 14:23:33] WARNING: [pool www] child 25595 exited on signal 4 (SIGILL - core dumped) after 46.280359 seconds from start
+[09-Jun-2021 14:23:33] NOTICE: [pool www] child 25716 started
+[09-Jun-2021 14:24:05] WARNING: [pool www] child 25155 exited on signal 4 (SIGILL - core dumped) after 469.133658 seconds from start
+[09-Jun-2021 14:24:05] NOTICE: [pool www] child 25760 started
+[09-Jun-2021 14:38:08] WARNING: [pool www] child 25760 exited on signal 4 (SIGILL - core dumped) after 842.566351 seconds from start
+[09-Jun-2021 14:38:08] NOTICE: [pool www] child 26970 started
+[09-Jun-2021 14:38:27] WARNING: [pool www] child 25716 exited on signal 4 (SIGILL - core dumped) after 894.312730 seconds from start
+[09-Jun-2021 14:38:27] NOTICE: [pool www] child 27149 started
+[09-Jun-2021 16:05:12] NOTICE: Terminating ...
+[09-Jun-2021 16:05:12] NOTICE: Terminating ...
+[09-Jun-2021 16:05:12] NOTICE: exiting, bye-bye!
+[09-Jun-2021 18:41:07] NOTICE: fpm is running, pid 34703
+[09-Jun-2021 18:41:07] NOTICE: ready to handle connections
+[10-Jun-2021 01:02:24] WARNING: [pool www] child 34707 exited on signal 4 (SIGILL - core dumped) after 17602.986280 seconds from start
+[10-Jun-2021 01:02:24] NOTICE: [pool www] child 55569 started
+[10-Jun-2021 01:21:07] NOTICE: Terminating ...
+[10-Jun-2021 01:21:07] NOTICE: Terminating ...
+[10-Jun-2021 01:21:07] NOTICE: exiting, bye-bye!
+[10-Jun-2021 08:57:46] NOTICE: fpm is running, pid 59026
+[10-Jun-2021 08:57:46] NOTICE: ready to handle connections
+[10-Jun-2021 09:09:29] WARNING: [pool www] child 59034 exited on signal 4 (SIGILL - core dumped) after 703.589055 seconds from start
+[10-Jun-2021 09:09:29] NOTICE: [pool www] child 61152 started
+[10-Jun-2021 09:11:31] WARNING: [pool www] child 59035 exited on signal 4 (SIGILL - core dumped) after 825.168882 seconds from start
+[10-Jun-2021 09:11:31] NOTICE: [pool www] child 61366 started
+[10-Jun-2021 09:47:02] WARNING: [pool www] child 61152 exited on signal 4 (SIGILL - core dumped) after 2252.298639 seconds from start
+[10-Jun-2021 09:47:02] NOTICE: [pool www] child 64956 started
+[10-Jun-2021 13:43:36] NOTICE: Terminating ...
+[10-Jun-2021 13:43:36] NOTICE: Terminating ...
+[10-Jun-2021 13:43:36] NOTICE: exiting, bye-bye!
+[13-Jun-2021 22:05:29] NOTICE: fpm is running, pid 49433
+[13-Jun-2021 22:05:29] NOTICE: ready to handle connections
+[14-Jun-2021 00:29:57] NOTICE: Terminating ...
+[14-Jun-2021 00:29:57] NOTICE: Terminating ...
+[14-Jun-2021 00:29:57] NOTICE: exiting, bye-bye!
+[14-Jun-2021 09:06:33] NOTICE: fpm is running, pid 65701
+[14-Jun-2021 09:06:33] NOTICE: ready to handle connections
+[14-Jun-2021 09:26:25] NOTICE: Terminating ...
+[14-Jun-2021 09:26:25] NOTICE: Terminating ...
+[14-Jun-2021 09:26:25] NOTICE: exiting, bye-bye!
+[14-Jun-2021 09:26:58] NOTICE: fpm is running, pid 67977
+[14-Jun-2021 09:26:58] NOTICE: ready to handle connections
